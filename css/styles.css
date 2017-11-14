@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+
+header {
+  background-color: skyblue;
+  overflow: auto;
+}
+
+h3 {
+  padding-top: 25px;
+}
+
+.palml {
+  float: left;
+  width: 10%;
+  opacity: .5;
+  border-radius: 50%
+}
+
+.palmr {
+  float: right;
+  width: 10%;
+  opacity: .5;
+  border-radius: 50%
+}
+
+main{
+  background-color: #DCD0B4;
+  overflow: auto;
+  padding: 25px;
+}
+
+footer {
+  background-color: skyblue;
+  overflow: auto;
+  padding: 90px;
+}
