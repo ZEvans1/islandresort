@@ -1,0 +1,21 @@
+body {
+  background-color: #556943;
+  text-align: center;
+}
+
+.header {
+  border-style: solid;
+}
+
+.woodl {
+  float: left;
+  width: 300px;
+  height: 1200px;
+  overflow: auto;
+}
+
+.woodr {
+  float: right;
+  width: 300px;
+  height: 1200px;
+}
